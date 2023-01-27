@@ -98,3 +98,10 @@
 .card-side {
   margin-top: 20px;
 }
+
+.price-card-list-iteam {
+  color: #86878B;
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: capitalize;
+}
