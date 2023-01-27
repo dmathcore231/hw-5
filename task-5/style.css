@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1508px;
+  margin: 0 auto;
+}
+
+.image-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
