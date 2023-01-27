@@ -21,6 +21,7 @@
 .promo {
   padding-top: 50px;
 }
+
 .promo-separator {
   height: 1px;
   width: 170px;
@@ -33,6 +34,7 @@
   line-height: 42px;
   text-transform: uppercase;
 }
+
 .prono-subtitle {
   font-size: 18px;
   line-height: 21px;
